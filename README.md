@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
 <h3 align="center">A passionate full-stack developer from Venezuela</h3>
 
-- 🔭 I’m currently working on [my final project!](https://github.com/4GeeksAcademy/DanielBayona-FinalProject-32)
+- 🔭 I’m currently working on **Pidelo APP**!
 
-- 💬 Ask me about **PhP**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **leonardocusatis45@gmail.com**
 
